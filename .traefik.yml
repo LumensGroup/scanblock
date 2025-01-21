@@ -25,3 +25,6 @@ testData:
   playGames: false
   blockSeconds: 5
   rememberSeconds: 10
+  ipAllowList:
+    - 24.0.0.0/12
+    - 24.16.0.0/13

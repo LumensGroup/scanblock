@@ -29,4 +29,10 @@ blockSeconds: "5"
 
 // RememberSeconds defines for how many seconds information about an IP should be cached after it was last seen.
 rememberSeconds: "10"
+
+// IP White list
+ipAllowList:
+    - 24.0.0.0/12
+    - 24.16.0.0/13
+
 ```
